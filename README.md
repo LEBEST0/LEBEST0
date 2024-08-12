@@ -10,5 +10,5 @@ En Licence 2, j'ai orienté mon parcours vers le Système Informatiques et Géni
 Actuellement, je me concentre sur l'apprentissage du langage Python, que je considère comme 🔐 une clé essentielle pour l'avenir. Bien que je garde mon objectif principal un peu mystérieux, disons simplement que "Celui qui détient les données détient le monde." Mon ambition est de maîtriser les données, car je crois fermement en leur pouvoir🧠.
 
 💞️ Etant un passionné et exité à l'idée de me lancer dans des projets en rapport avec les TIC,💼🎯 je suis disponible pour toute opprotunité.
-📫 Vous pouvez me joindre par email au angedavidakre33@gmail.com.
+📫 Vous pouvez me joindre par email au angedavidakre33@gmail.com ou à partir de mon portfolio: angedavidakre.com prendre un RDV☺😊.
 
