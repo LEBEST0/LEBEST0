@@ -1,14 +1,41 @@
-👋 Bonjour, je m'appelle Ange David AKRE. Je suis actuellement étudiant en Systèmes Informatiques et Génie Logiciel (SIGL) à l'École Supérieure Africaine des TIC (ESATIC), la plus prestigieuse école d'informatique en Côte d'Ivoire🌍💻.
+# 👋 Bonjour, moi c'est Ange David AKRE !
 
-🎓 Mon parcours académique :
-J'ai commencé mon aventure universitaire en Licence 1, avec une formation en Systèmes Réseaux Informatiques et Télécom (SRIT un tronc commun). Cette période a été marquée par une immersion intense dans les mathématiques, la physique, et l'électronique, avec des sujets aussi complexes que l'électromagnétisme⚙️, l'électronique numérique, et la mécanique du point. Bien que ce chemin ait été parsemé de défis💪(les génies sont devenu des hommes😂), ces obstacles m'ont forgé une résilience et une capacité à m'adapter. Comme l'a dit Albert Einstein,🎓 "Le génie, c'est 1% de talent et 99% de travail acharné." Ce que j'ai appris, c'est que même les plus doués doivent faire preuve de courage et de persévérance pour réussir. Cette première année m'a appris à ne jamais abandonner et à toujours apprendre de mes erreurs🔥.
+Futur ingénieur en sciences du numérique, passionné par le développement logiciel et en pleine spécialisation dans l'univers de la **Data (Data Science / AI / Machine Learning)**. 
 
-💻 Mon expertise actuelle :
-En Licence 2, j'ai orienté mon parcours vers le Système Informatiques et Génie Logiciel (SIGL), où j'ai embrassé le rôle de concepteur et développeur de systèmes d'information💻✨. Je travaille avec divers langages de programmation tels que PHP, Java, JavaScript, C#, et les incontournables HTML/CSS. Désireux de maîtriser des technologies plus avancées, j'ai exploré des frameworks et CMS comme Laravel (pour le développement web avec PHP), Scrum (pour la gestion de projets), React.js, et Flutter & Dart (pour le développement d'applications mobiles🚀).
+🚀 Diplômé d'une **Licence en Systèmes Informatiques et Génie Logiciel (SIGL)** à l'ESATIC en 2025, je poursuis mon cursus en cycle ingénieur tout en renforçant mes compétences en Data via une formation certifiante chez **Developers.Institute**.
 
-🐍 Mon objectif principal :
-Actuellement, je me concentre sur l'apprentissage du langage Python, que je considère comme 🔐 une clé essentielle pour l'avenir. Bien que je garde mon objectif principal un peu mystérieux, disons simplement que "Celui qui détient les données détient le monde." Mon ambition est de maîtriser les données, car je crois fermement en leur pouvoir🧠.
+> 💡 *"Celui qui détient les données détient le monde."* Maîtriser la donnée pour créer des solutions intelligentes et à fort impact, voilà mon objectif.
 
-💞️ Etant un passionné et exité à l'idée de me lancer dans des projets en rapport avec les TIC,💼🎯 je suis disponible pour toute opprotunité.
-📫 Vous pouvez me joindre par email au angedavidakre33@gmail.com ou à partir de mon portfolio: angedavidakre.com prendre un RDV☺😊.
+---
 
+### 👨‍💻 Ce que je fais en ce moment
+* 🎓 **Études :** Cycle Ingénieur (Spécialisation Numérique / IA / Softwares).
+* 📊 **Formation Data :** Certification en cours chez *Developers.Institute* (Focus Python, manipulation de données et écosystème Data).
+* 🧠 **Centres d'intérêt :** Machine Learning, architectures de données, méthodologies Agile (Scrum).
+
+---
+
+### 🛠️ Toolbox / Compétences Techniques
+
+| Domaine | Technologies & Outils |
+| :--- | :--- |
+| **Data & Scripting** | Python, SQL, MongoDB |
+| **Développement Web** | PHP (Laravel), JavaScript (React.js), HTML5 / CSS3 |
+| **Mobile** | Flutter, Dart |
+| **Langages Objet** | Java, C# |
+| **Gestion de Projet** | Méthodologie Scrum / Agile, Git & GitHub |
+
+---
+
+### 📚 Mon Parcours en bref
+* **2025 - Présent :** Cycle Ingénieur & Spécialisation Data.
+* **2022 - 2025 :** Licence SIGL (ESATIC) – Solide background en conception de systèmes d'information, développement d'applications et résilience face aux défis scientifiques (Tronc commun SRIT).
+
+---
+
+### 🤝 Parlons Projet !
+Je suis passionné par l'innovation technologique et toujours ouvert à de nouvelles opportunités de collaboration (Hackathons, projets Open Source, stages).
+
+* 📧 **Email :** [angedavidakre33@gmail.com](mailto:angedavidakre33@gmail.com)
+* 🌐 **Portfolio & RDV :** [angedavidakre.com](https://angedavidakre.com)
+* 💼 **LinkedIn :** [Ton lien LinkedIn ici]
