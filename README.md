@@ -38,4 +38,4 @@ Je suis passionné par l'innovation technologique et toujours ouvert à de nouve
 
 * 📧 **Email :** [angedavidakre33@gmail.com](mailto:angedavidakre33@gmail.com)
 * 🌐 **Portfolio & RDV :** [angedavidakre.com](https://angedavidakre.com)
-* 💼 **LinkedIn :** [Ton lien LinkedIn ici]
+* 💼 **LinkedIn :** [https://www.linkedin.com/in/akre-ange-david/]
