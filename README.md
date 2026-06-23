@@ -28,7 +28,7 @@ Futur ingénieur en sciences du numérique, passionné par le développement log
 ---
 
 ### 📚 Mon Parcours en bref
-* **2025 - Présent :** Cycle Ingénieur & Spécialisation Data.
+* **2025 - Présent :** Cycle Ingénieur & Spécialisation Data  et IA.
 * **2022 - 2025 :** Licence SIGL (ESATIC) – Solide background en conception de systèmes d'information, développement d'applications et résilience face aux défis scientifiques (Tronc commun SRIT).
 
 ---
